@@ -27,7 +27,7 @@
 
 
 
-***2022/10/17：***Add the function of captcha when logining for the purpose to complete the course design of software architecture.
+***2022/10/17:*** Add the function of captcha when logining for the purpose to complete the course design of software architecture.
 
  <br/> <br/>
 
