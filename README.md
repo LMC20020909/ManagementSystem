@@ -1,4 +1,5 @@
 # ManagementSystem
+大二专业实训项目：人事管理系统
  VueJs + SpringBoot + MyBatis-Plus     ~~VueJs + SSM~~
 
 
